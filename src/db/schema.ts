@@ -22,4 +22,8 @@ export const publicationsTable = pgTable("publications", {
     .array()
     .notNull()
     .default(sql`'{}'::text[]`),
+  author_names: varchar({ length: 255 })
+    .array()
+    .notNull()
+    .default(sql`'{}'::text[]`),
 });
