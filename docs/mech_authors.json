@@ -1,146 +1,182 @@
 [
     {
         "name": "Prof. M. Srinivas",
-        "author_id": "83xSWL8AAAAJ"
+        "author_id": "83xSWL8AAAAJ",
+        "email": "morasrini@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. N. Jalaiah",
-        "author_id": "sBnsZ-EAAAAJ"
+        "author_id": "sBnsZ-EAAAAJ",
+        "email": "jalaiah@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Amit Kumar Gupta",
-        "author_id": "Cr8bD8EAAAAJ"
+        "author_id": "Cr8bD8EAAAAJ",
+        "email": "akgupta@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Srinivasa Prakash Regalla",
-        "author_id": "20uTZT0AAAAJ"
+        "author_id": "20uTZT0AAAAJ",
+        "email": "regalla@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. K. Suresh",
-        "author_id": "m3vOhMkAAAAJ"
+        "author_id": "m3vOhMkAAAAJ",
+        "email": "ksuresh@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Jeevan Jaidi",
-        "author_id": "yanc3noAAAAJ"
+        "author_id": "yanc3noAAAAJ",
+        "email": "jaidi@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Y.V.D. Rao",
-        "author_id": "t-Kjo7sAAAAJ"
+        "author_id": "t-Kjo7sAAAAJ",
+        "email": "yvdrao@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. N.S.K. Reddy",
-        "author_id": "0XsavWEAAAAJ"
+        "author_id": "0XsavWEAAAAJ",
+        "email": "nskreddy@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Nitin Kotkunde",
-        "author_id": "CRLwfu0AAAAJ"
+        "author_id": "CRLwfu0AAAAJ",
+        "email": "nitink@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. S.S. Deshmukh",
-        "author_id": "6cVuP8wAAAAJ"
+        "author_id": "6cVuP8wAAAAJ",
+        "email": "ssd@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof.C.P. Kiran",
-        "author_id": "duujNk4AAAAJ"
+        "author_id": "duujNk4AAAAJ",
+        "email": "cpkiran@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Amrita Priyadarshini",
-        "author_id": "mormx9cAAAAJ"
+        "author_id": "mormx9cAAAAJ",
+        "email": "amrita@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof.G.R. Sabareesh",
-        "author_id": "_3QQirAAAAAJ"
+        "author_id": "_3QQirAAAAAJ",
+        "email": "sabareesh@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. R. Parameshwaran",
-        "author_id": "IdBfxiwAAAAJ"
+        "author_id": "IdBfxiwAAAAJ",
+        "email": "parameshwaranr@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Satish Kumar Dubey",
-        "author_id": "9CqNe_8AAAAJ"
+        "author_id": "9CqNe_8AAAAJ",
+        "email": "satishdubey@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Arshad Javed",
-        "author_id": "9X8aIyMAAAAJ"
+        "author_id": "9X8aIyMAAAAJ",
+        "email": "arshad@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Supradeepan",
-        "author_id": "uOAfc4YAAAAJ"
+        "author_id": "uOAfc4YAAAAJ",
+        "email": "supradeepan@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Sujith R",
-        "author_id": "1-P3jIcAAAAJ"
+        "author_id": "1-P3jIcAAAAJ",
+        "email": "sujith@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. K. Ram Chandra Murthy",
-        "author_id": "A5pLEmkAAAAJ"
+        "author_id": "A5pLEmkAAAAJ",
+        "email": "rcmurthy@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. S.P. Datta",
-        "author_id": "aaOR7BcAAAAJ"
+        "author_id": "aaOR7BcAAAAJ",
+        "email": "spdatta@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Pavan Kumar P",
-        "author_id": "asGH9jEAAAAJ"
+        "author_id": "asGH9jEAAAAJ",
+        "email": "pavankp@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Ravi Shanker Vidyarthy",
-        "author_id": "KY-cKC4AAAAJ"
+        "author_id": "KY-cKC4AAAAJ",
+        "email": "ravi.vidyarthyfme@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Pardha Saradhi Gurugubelli Venkata",
-        "author_id": "gQrIu6QAAAAJ"
+        "author_id": "gQrIu6QAAAAJ",
+        "email": "pardhasg@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Piyush Chandra Verma",
-        "author_id": "ci4FhFkAAAAJ"
+        "author_id": "ci4FhFkAAAAJ",
+        "email": "piyushchandraverma@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Brajesh Kumar Panigrahi",
-        "author_id": "MtCZ8yUAAAAJ"
+        "author_id": "MtCZ8yUAAAAJ",
+        "email": "brajesh@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Amol Vuppuluri",
-        "author_id": "gvx0lHEAAAAJ"
+        "author_id": "gvx0lHEAAAAJ",
+        "email": "amol@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Kundan Kumar Singh",
-        "author_id": "zhppPg8AAAAJ"
+        "author_id": "zhppPg8AAAAJ",
+        "email": "ksingh@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Prabakaran Saravanan",
-        "author_id": "EKAC8l0AAAAJ"
+        "author_id": "EKAC8l0AAAAJ",
+        "email": "psaravanan@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Mrinal K. Jagirdar",
-        "author_id": "Bj1LFUgAAAAJ"
+        "author_id": "Bj1LFUgAAAAJ",
+        "email": "mkjagirdar@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Abhishek Sarkar",
-        "author_id": "-rMrxYgAAAAJ"
+        "author_id": "-rMrxYgAAAAJ",
+        "email": "abhisheks@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Sayan Das",
-        "author_id": "vusTPNEAAAAJ"
+        "author_id": "vusTPNEAAAAJ",
+        "email": "sayan.das@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Jayaprakash K S",
-        "author_id": "FHRgFwcAAAAJ"
+        "author_id": "FHRgFwcAAAAJ",
+        "email": "jayaprakash.ks@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. ​Arnab Guha",
-        "author_id": "GbVrhYcAAAAJ"
+        "author_id": "GbVrhYcAAAAJ",
+        "email": "guha.arnab@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof.  Aritra Chatterjee",
-        "author_id": "R4GLFtcAAAAJ"
+        "author_id": "R4GLFtcAAAAJ",
+        "email": "aritra.chatterjee@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. M Rama Manohara Babu",
-        "author_id": null
+        "author_id": null,
+        "email": "rama.mbm@hyderabad.bits-pilani.ac.in"
     },
     {
         "name": "Prof. Naveen Kumar Shrivastava",
-        "author_id": "3YQs-oMAAAAJ"
+        "author_id": "3YQs-oMAAAAJ",
+        "email": "naveenks@hyderabad.bits-pilani.ac.in"
     }
 ]

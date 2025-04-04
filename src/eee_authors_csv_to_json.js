@@ -26,6 +26,7 @@ fs.promises
         return {
           name: row[1].trim(),
           author_id: extractAuthorId(row[3].trim()),
+          email: row[2].trim(),
         };
       })
       .filter((entry) => entry !== null);

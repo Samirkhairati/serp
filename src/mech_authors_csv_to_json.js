@@ -7,7 +7,7 @@ const __dirname = path.join(path.dirname(__filename), "..", "docs");
 
 // Function to extract author_id from Google Scholar URL
 const extractAuthorId = (url) => {
-    console.log("Extracting author ID from URL:", url);
+  console.log("Extracting author ID from URL:", url);
   const match = url.match(/user=([\w-]+)/);
   return match ? match[1] : null;
 };
@@ -27,6 +27,7 @@ fs.promises
           return {
             name: row[2].trim(),
             author_id: extractAuthorId(row[5].trim()),
+            email: row[4].trim(),
           };
         }
         return null;
